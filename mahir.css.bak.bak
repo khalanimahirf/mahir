@@ -1,0 +1,58 @@
+body
+{
+	background-image:url('Mahir/11.jpg');
+}
+ul
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background-color:red;
+}
+li
+{
+	float:left;
+	font-size:30px;
+}
+li a
+{
+	display:block;
+	color:green;
+	padding:5px 16px;
+	text-decoration:none;
+}
+li a:hover:not(.m1)
+{
+	background-color:pink;
+}
+.m1
+{
+	background-color:yellow;
+}
+h1
+{
+	color:red;
+	background-color:white;
+}
+.n1
+{
+	background-color:silver;
+	font-size:30px;
+	border-style:solid;
+	border-width:10px;
+	border-radius:14px;
+	height:300;
+	width:500;
+	background-image:url(Mahir/11.jpg);
+}
+.q1
+{
+ height:300;
+ width:500;
+}
+.q2
+{
+ height:10px;
+ width:20px;
+}

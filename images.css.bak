@@ -1,0 +1,50 @@
+body
+{
+	background-color:red;
+}
+.m1
+{
+	border-style:dotted;
+	border-color:black;
+	border-width:4px;
+	border-radius:14px;
+	margin:14px;
+	padding:14px;
+	background-color:yellow;
+	font-size:30px;
+	text-align:center;
+}
+.m2
+{
+	border-style:solid;
+	border-color:black;
+	border-width:3px;
+	border-radius:12px;
+	margin:20px;
+	padding:40px;
+	height:300px;
+	width:500px;
+	background-image:url(shine2.jpg);
+	background-repeat:no-repeat;
+	background-size:550px 400px;
+	background-position:center;
+	background-color:silver;
+	font-size:20px;
+}
+.m3
+{
+	border-style:dotted;
+	border-color:black;
+	border-width:3px;
+	border-radius:12px;
+	margin:20px;
+	padding:40px;
+	height:300px;
+	width:500px;
+	background-image:url(89.jpg);
+	background-repeat:no-repeat;
+	background-size:550px 400px;
+	background-position:center;
+	background-color:skyblue;
+	font-size:20px;
+}

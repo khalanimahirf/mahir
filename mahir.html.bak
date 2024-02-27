@@ -1,0 +1,29 @@
+<html>
+<head>
+<title> mahir</title>
+<link rel="stylesheet" type="text/css" href="mahir.css">
+</head>
+<body style="background-image:url('Mahir/mk.jpg')">
+<center><h1 class="h1">Welcome to my page </h1></center>
+<ul>
+<li class="m1"><a>Home</a></li>
+<li class="m1" ><a>About</a></li>
+<li class="m1" ><a>News</a></li>
+</ul><br><br>
+<center>
+<form class="n1" > 
+<h2>Login details</h2>
+<label>Enter the user id</label>
+<input type="user id" placeholder="Enter the user id"><br><br>
+<label>Enter the password</label>
+<input type="password" placeholder="Password"><br><br>
+<a href="">
+<input type="button" value="Login">
+<image src="shine2.jpg" class="n1">
+<image src="shine2.jpg"class="n2">
+<image src="shine2.jpg">
+</form></center>
+
+
+</body>
+</html>

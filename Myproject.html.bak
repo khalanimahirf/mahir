@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> My Project </title>
+<link rel="stylesheet" type="text/css" href="Myproject.css">
+</head>
+<body>
+<form class="n1">
+<label>USER-ID</label>
+<input type="user id " placeholder="ENTER THE USER ID"><br><br>
+<label>PASSWORD</label>
+<input type="password" placeholder="Password"><br><br>
+<a href="login.html">
+<center><input align="center" type="button" value="Login" /></a></center>
+<p><u>forget password?</u></p>
+</form>
+<video controls src="myvideo.mp4" type="video/mp4"></video>
+</body>
+</html>

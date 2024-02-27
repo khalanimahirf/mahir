@@ -1,0 +1,33 @@
+body
+{
+	background-image:url('85.jpg');
+	background-repeat:no-repeat;
+	background-size:1400px 500px;
+	background-position:center;
+	background-color:red;
+	
+}
+ul
+{
+	list-style-type:none;
+	margin:;
+	padding:20;
+	overflow:hidden;
+	background-color:white;
+}
+li
+{
+	float:left;
+	font-size:30px;
+}
+li a
+{
+	color:red;
+	padding:6px 16px;
+	
+	
+}
+li a:hover:not(.m1)
+{
+	background-color:pink;
+}

@@ -1,0 +1,99 @@
+<html>
+<head>
+<title>Home</title>
+<style type="text/css">
+.m1{
+position:fixed;
+border:2px solid;
+}
+</style>
+</head>
+<body>
+<form>
+<center>
+<legend>USER Registration</legend><br>
+<label>Enter the name:</label>
+<input type="text" placeholder="Your Name"><br>
+<label>Mobile Number:</label>
+<div class="m1">
+<p>kmsdmvsmd</p>
+<table border="5" class="">
+<tr  class="m1">
+<th>Model Name</th>
+<th>EX Showroom</th>
+<th>Insurance</th>
+<th>HPA</th>
+<th>Accessorice</th>
+<th>RTO</th>
+<th>Total Price</th>
+</tr >
+<tr class="m2">
+<th>Shine 100</th>
+<td>63,400</td>
+<td>5445</td>
+<td>1000</td>
+<td>1800</td>
+<td>4567</td>
+<td>76,212/-</td>
+</tr>
+<tr class="m2">
+<th>CB Shine</th>
+<td>85,400</td>
+<td>5445</td>
+<td>1000</td>
+<td>1800</td>
+<td>4567</td>
+<td>98,212/-</td>
+</tr>
+<tr class="m2">
+<th>Sp 125</th>
+<td>90,586</td>
+<td>5445</td>
+<td>1000</td>
+<td>1800</td>
+<td>4567</td>
+<td>1,03,398/-</td>
+</tr>
+<tr class="m2">
+<th>Livo</th>
+<td>84,585</td>
+<td>5445</td>
+<td>1000</td>
+<td>1800</td>
+<td>4567</td>
+<td>97,397/-</td>
+</tr>
+<tr class="m2">
+<th>CD-110</th>
+<td>63,400</td>
+<td>5445</td>
+<td>1000</td>
+<td>1800</td>
+<td>4567</td>
+<td>76,212/-</td>
+</tr>
+<tr class="m2">
+<th>Activa Dlx</th>
+<td>85,858</td>
+<td>5445</td>
+<td>1000</td>
+<td>1800</td>
+<td>4567</td>
+<td>97,397/-</td>
+</tr>
+<tr class="m2">
+<th>Activa H-smart</th>
+<td>86,585</td>
+<td>5445</td>
+<td>1000</td>
+<td>1800</td>
+<td>4567</td>
+<td>99,397/-</td>
+</tr>
+</table>
+
+</div>
+</center>
+</form>
+</body>
+</html>
